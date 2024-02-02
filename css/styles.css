@@ -11051,3 +11051,8 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+.rounded-image {
+  border-radius: 30%; /* Esto dará a la imagen un borde completamente redondo */
+  /* Para bordes menos redondos, puedes usar un valor específico, como 20px */
+}
